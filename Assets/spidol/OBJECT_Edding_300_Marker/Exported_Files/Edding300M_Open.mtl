@@ -1,0 +1,16 @@
+# Blender MTL File: '00_OBJECT_Edding_300_Marker.blend'
+# Material Count: 1
+
+newmtl Ed300M_Black
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\figso\\Desktop\\OBJECT Edding 300 Marker\\OBJECT_Edding_300_Marker\\Textures\\Ed300M_Normal.png
+map_Kd C:\\Users\\figso\\Desktop\\OBJECT Edding 300 Marker\\OBJECT_Edding_300_Marker\\Textures\\Ed300M_CoBlack_Base.png
+map_Ns C:\\Users\\figso\\Desktop\\OBJECT Edding 300 Marker\\OBJECT_Edding_300_Marker\\Textures\\Ed300M_Roughness.png
+refl C:\\Users\\figso\\Desktop\\OBJECT Edding 300 Marker\\OBJECT_Edding_300_Marker\\Textures\\Ed300M_Metallic.png
